@@ -4,4 +4,5 @@ Vanity Bitcoin Generator
 
 ```sh
 go run . 1Go
+go run . bc1qgo
 ```
